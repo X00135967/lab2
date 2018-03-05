@@ -1,0 +1,7 @@
+clean
+echo "# lab2" >> README.md
+git init
+echo "# lab2" >> README.md
+echo"# lab2" >> README.md
+cd 
+cd webapps
